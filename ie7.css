@@ -1,0 +1,16 @@
+.aside div{	
+	height: 150px;
+	padding: 0;
+}
+	.aside div img{
+		margin-top:35px; 
+		margin-left:20px;		
+	}
+	.aside div p{
+		margin-top:35px; 
+		margin-right:20px;
+		line-height: normal;		
+	}
+.content {
+	height: 470px;
+}	
